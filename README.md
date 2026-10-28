@@ -37,3 +37,13 @@ London-based and remote-first. Best aligned with applied AI, product/platform en
 ## Education
 
 BSc Computer Science (Artificial Intelligence), University of Greenwich, expected 2028.
+
+## Research interests
+
+![ChaseInTech: connect disciplines and build useful systems](assets/chaseintech-research-orbit.svg)
+
+- **Agent harnesses and continuous operation:** reliable long-running agents, context and memory, recovery, observability and human oversight for systems designed to work around the clock.
+- **Robotics and physical AI:** exploring how software agents connect to perception, control and useful interactions with the physical world.
+- **Product abstractions and discovery:** turning complex infrastructure into tools people can use, finding new use cases, and combining ideas from AI, software engineering, mathematics and design.
+
+These are directions I’m exploring alongside the implemented product work above.
